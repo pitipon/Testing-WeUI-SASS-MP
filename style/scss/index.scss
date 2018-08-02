@@ -1,0 +1,8 @@
+// Command for building SASS
+// sass ./style/scss/index.scss ./style/myui.wxss
+
+// Import all settings 
+@import "./settings/index";
+
+// Import Base UI
+@import "./base/weui";
